@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Classwork_5/app/src/main/res/drawable/shape_field.xml" value="0.133" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Classwork_5/app/src/main/res/layout/activity_main.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Classwork_5/app/src/main/res/layout/item_field_chooser_date.xml" value="0.1991561181434599" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Classwork_5/app/src/main/res/layout/item_field_chooser_gender.xml" value="0.20170940170940171" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Classwork_5/app/src/main/res/layout/item_field_input.xml" value="0.20170940170940171" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
